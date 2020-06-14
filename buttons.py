@@ -1,4 +1,5 @@
 'Buttons
+'A simple intruction no.2
 
 import tkinter as tk
 
